@@ -15,7 +15,7 @@ This repository contains my solution to the FAQ Accordion challenge from Fronten
 
 ## Live Demo
 
-- Live Site:
+- Live Site: https://faq-accordin-component.vercel.app/
 
 ## Preview
 
