@@ -30,23 +30,11 @@ This repository contains my solution to the FAQ Accordion challenge from Fronten
 
 ## Features
 
-✔ Show/hide answers on click
-✔ Toggle icons (plus/minus)
-✔ Accessible keyboard interaction
-✔ Responsive design for mobile & desktop
-✔ Hover & focus states for UI clarity
-
-## Folder Structure
-
-faq-accordion/
-
-├── assets/
-│ ├── images/
-│ └── (other static assets)
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- Show/hide answers on click
+- Toggle icons (plus/minus)
+- Accessible keyboard interaction
+- Responsive design for mobile & desktop
+- Hover & focus states for UI clarity
 
 ## Implementation Notes
 
